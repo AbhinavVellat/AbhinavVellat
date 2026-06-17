@@ -35,7 +35,7 @@ Poke around my repos and feel free to reach out.
 
 <!-- LINKS -->
 [Instagram-shield]: https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white
-[Instagram-url]: https://www.instagram.com/yourusername/
+[Instagram-url]: https://www.instagram.com/askv13/
 [LinkedIn-shield]: https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white
 [LinkedIn-url]: https://www.linkedin.com/in/yourusername/
 [Loading-shield]: https://img.shields.io/badge/Will%20be%20updated%20soon...-grey?style=for-the-badge&logoColor=white
